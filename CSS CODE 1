@@ -1,4 +1,4 @@
-/* Reset default styling for all elements */
+/* default styling for all elements */
 * {
     margin: 0;
     padding: 0;
